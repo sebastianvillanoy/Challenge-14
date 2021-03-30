@@ -8,9 +8,9 @@ The study looked at a Citi Bike data set containing the trip history of 1,048,57
 # Results
 
 <p>
-The following visualizatiuons were uploaded as part of a Tableau story entitled NYC Bike Sharing. 
+The following visualizatiuons were uploaded as part of a Tableau story entitled:
 
-https://public.tableau.com/views/NYC_Bike_Sharing/NYCBikeSharing?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+[NYC Bike Sharing](https://public.tableau.com/views/NYC_Bike_Sharing/NYCBikeSharing?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 </p>
 
 <br>
