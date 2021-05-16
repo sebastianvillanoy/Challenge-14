@@ -1,3 +1,6 @@
 # Ignore csv files
 201908-citibike-tripdata-new.csv
 201908-citibike-tripdata.csv
+
+# Ignore .ipynb_checkpoints
+.ipynb_checkpoints
